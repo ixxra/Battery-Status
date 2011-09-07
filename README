@@ -1,0 +1,21 @@
+battery
+
+ABOUT:
+
+Command line tool showing battery status on laptops using acpi.
+
+
+REQUIREMENTS:
+
+kernel with sysfs and acpi support (most linux kernels will do)
+
+
+COMPILATION:
+
+mkdir build
+cd build
+cmake ..
+make
+
+(optional)
+make install (as root)
