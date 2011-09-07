@@ -2,7 +2,7 @@ battery
 
 ABOUT:
 
-Command line tool showing battery status on laptops using acpi.
+Command line tool showing battery status on laptops using linux and possibly other unix flavors.
 
 
 REQUIREMENTS:
